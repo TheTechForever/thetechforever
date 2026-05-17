@@ -25,7 +25,7 @@ export default function Footer() {
             {/* LOGO IMAGE */}
             <div className={styles.logoWrap}>
               <Image
-                src="/logo.png"
+                src="/TheTechForever-Light-Logo-Rectangle-with-white-line.png"
                 alt="TheTechForever"
                 width={140}
                 height={50}
