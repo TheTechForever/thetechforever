@@ -23,7 +23,7 @@ export default function Hero() {
         {/* COMPANY LOGO */}
         <div className={`${styles.heroLogo} fade-up delay-1`}>
           <Image
-            src="/logo.png"
+            src="/TheTechForever-Light-Logo-Rectangle-with-white-line.png"
             alt="TheTechForever"
             width={180}
             height={64}
